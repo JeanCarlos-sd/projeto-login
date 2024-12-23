@@ -7,7 +7,7 @@
     }
 
     body {
-        background-image: linear-gradient( to bottom, #26628A , #82a4bd);
+        background-image: linear-gradient( to bottom, #1c5379 , #5f86a1);
     }
 
     section#login > div#imagem {
@@ -29,7 +29,7 @@
 @media screen and (min-width: 992px) { 
 
     body {
-        background-image: linear-gradient( to bottom, #26628A , #82a4bd);
+        background-image: linear-gradient( to bottom, #1c5379 , #5f86a1);
     }
 
     section#login {
